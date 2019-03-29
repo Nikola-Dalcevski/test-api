@@ -1,0 +1,27 @@
+{
+  "Brand": "Scott",
+  "Model": "490",
+  "Type": "Mountain",
+   "Spec" : [
+    {
+      "Brand": "Scott",
+      "Model": "490",
+      "Type": "Mountain",
+      "Tires": {
+        "size": 29,
+        "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+      },
+      "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+      "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+      "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+      "Shifters": "SRAM GX Eagle Trigger",
+      "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+      "crankset": "SRAM GX Eagle DUB Boost 32T",
+      "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+      "Seat": "Syncros XR1.5 / Titanium rails",
+      "chain": "SRAM CN GX Eagle",
+      "Weight": "10.5 Kg"
+    }
+
+  ]
+}
