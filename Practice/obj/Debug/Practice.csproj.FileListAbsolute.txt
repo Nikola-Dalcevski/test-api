@@ -1,6 +1,0 @@
-Z:\c# oop Advance\class03\Class03\Practice\bin\Debug\Practice.exe.config
-Z:\c# oop Advance\class03\Class03\Practice\bin\Debug\Practice.exe
-Z:\c# oop Advance\class03\Class03\Practice\bin\Debug\Practice.pdb
-Z:\c# oop Advance\class03\Class03\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
-Z:\c# oop Advance\class03\Class03\Practice\obj\Debug\Practice.exe
-Z:\c# oop Advance\class03\Class03\Practice\obj\Debug\Practice.pdb
