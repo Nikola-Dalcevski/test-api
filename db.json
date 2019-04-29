@@ -2,8 +2,8 @@
   "Bikes": [
     {
       "Brand": "Scott",
-      "Model": "490",
-      "fullname":"Scott 490",
+      "Model": "Scale 900 Pro Bike",
+      "fullname": "Scott Scale 900 Pro Bike",
       "Type": "Mountain",
       "Spec": {
         "Tires": {
@@ -24,9 +24,1075 @@
         "Seat": "Syncros XR1.5 / Titanium rails",
         "chain": "SRAM CN GX Eagle",
         "Weight": "10.5 Kg"
-      }
+      },
+      "Price": 290
+    },
 
-      
+    {
+      "Brand": "Scott",
+      "Model": "Aspect 770 2019 ",
+      "fullname": "Scott Aspect 770 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 27.5,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+
+    {
+      "Brand": "Scott",
+      "Model": "Aspect 780 2019 ",
+      "fullname": "Scott Aspect 780 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 27.5,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+
+    {
+      "Brand": "Scott",
+      "Model": "Aspect 920 2019 ",
+      "fullname": "Scott Aspect 920 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 27.5,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Scott",
+      "Model": "Speedster 20 2019 ",
+      "fullname": "Scott Speedster 20 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": "700c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Scott",
+      "Model": "Addict 10 ",
+      "fullname": "Scott Addict 10 2018",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": "650c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Scott",
+      "Model": "Addict 20 2018",
+      "fullname": "Scott Addict 20 2018",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": "650c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Scott",
+      "Model": "Foil 20 2019 ",
+      "fullname": "Scott Foil 20 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": "700c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Scott",
+      "Model": "Sub Sport 10 2019 ",
+      "fullname": "Scott Sub Sport 10 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 28,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+
+    {
+      "Brand": "Scott",
+      "Model": "Sub Sport 30 2018 ",
+      "fullname": "Scott Sub Sport 30 2018",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 28,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Cube",
+      "Model": "Access Eaz 2018 ",
+      "fullname": "Cube Access Eaz 2018",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 29,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Cube",
+      "Model": "Reaction 2019 ",
+      "fullname": "Cube Reaktion 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 29,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Cube ",
+      "Model": "Access WS 2019 ",
+      "fullname": "Cube Access WS 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 27.5,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+
+    {
+      "Brand": "Cube ",
+      "Model": "Elite Race 2019 ",
+      "fullname": "Cube Elite Race 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 27.5,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+
+    {
+      "Brand": "Cube ",
+      "Model": "Agree Race Disc 2018 ",
+      "fullname": "Cube Agree Race Disc 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": "700c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+
+    {
+      "Brand": "Cube ",
+      "Model": "Nuroad Pro 2019",
+      "fullname": "Cube Nuroad Pro 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": "700c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+
+    {
+      "Brand": "Cube ",
+      "Model": "Cross Race Pro 2019",
+      "fullname": "Cube Cross Race Pro 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": "650c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+
+    {
+      "Brand": "Cube ",
+      "Model": "SL Road 2018",
+      "fullname": "Cube SL Road 2018",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": "650c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Cube ",
+      "Model": "Nature Pro 2019 ",
+      "fullname": "Cube Nature Pro 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 28,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+
+    {
+      "Brand": "Cube ",
+      "Model": "Turning One 2018 ",
+      "fullname": "Cube Turning One 2018",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 28,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+
+    {
+      "Brand": "Trek",
+      "Model": "Marlin 7 2018 ",
+      "fullname": "Trek Marlin 7 2018",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 27.5,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+
+    {
+      "Brand": "Trek",
+      "Model": "Marlin 7 2019 ",
+      "fullname": "Trek Marlin 7 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 29,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+
+    {
+      "Brand": "Trek",
+      "Model": "X-Caliber 8 2019 ",
+      "fullname": "Trek X-Caliber 8 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 29,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+
+    {
+      "Brand": "Trek",
+      "Model": "Marlin 5 2019 ",
+      "fullname": "Trek Marlin 5 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 27.5,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Trek",
+      "Model": "Domane SL 2019 ",
+      "fullname": "Trek Domane SL 2019",
+      "Type": "Road",
+      "Spec": {
+        "Tires": {
+          "size": "700c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Trek",
+      "Model": "Madone SL 2018 ",
+      "fullname": "Trek Madone SL 2018",
+      "Type": "Road",
+      "Spec": {
+        "Tires": {
+          "size": "700c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Trek",
+      "Model": "Checkpoint SL 2019 ",
+      "fullname": "Trek Checkpoint SL 2019",
+      "Type": "Road",
+      "Spec": {
+        "Tires": {
+          "size": "650c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Trek",
+      "Model": "Madone SLR 2018 ",
+      "fullname": "Trek Madone SLR 2019",
+      "Type": "Road",
+      "Spec": {
+        "Tires": {
+          "size": "700c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Trek",
+      "Model": "Velve 2 Disc 2019 ",
+      "fullname": "Trek Velve 2 Disc 2019",
+      "Type": "Hibrid",
+      "Spec": {
+        "Tires": {
+          "size": 28,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Trek",
+      "Model": "Dual Sport 2 2018 ",
+      "fullname": "Trek Dual Sport 2 2018",
+      "Type": "Hibrid",
+      "Spec": {
+        "Tires": {
+          "size": 28,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Focus",
+      "Model": "Raven 9.8 2019 ",
+      "fullname": "Focus Raven 9.8 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 29,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Focus",
+      "Model": "Raven 9.9 2019 ",
+      "fullname": "Focus Raven 9.9 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 29,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Focus",
+      "Model": "Jarifa 3.9 2018 ",
+      "fullname": "Focus Jarifa 3.9 2018",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 27.5,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Focus",
+      "Model": "Jarifa 6.9 2019 ",
+      "fullname": "Focus Jarifa 6.9 2019",
+      "Type": "Mountain",
+      "Spec": {
+        "Tires": {
+          "size": 27.5,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Focus",
+      "Model": "Mares 6.7 2018 ",
+      "fullname": "Focus Mares 6.7 2018",
+      "Type": "Road",
+      "Spec": {
+        "Tires": {
+          "size": "700c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Focus",
+      "Model": "Mares 9.7 2019 ",
+      "fullname": "Focus Mares 9.7 2019",
+      "Type": "Road",
+      "Spec": {
+        "Tires": {
+          "size": "700c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Focus",
+      "Model": "Izalco Max Disc 8.7 2019 ",
+      "fullname": "Focus Izalco Max Disc 8.7  2019",
+      "Type": "Road",
+      "Spec": {
+        "Tires": {
+          "size": "650c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Focus",
+      "Model": "Izalco Race Disc 9.9 2019 ",
+      "fullname": "Focus Izalco Race Disc 9.9  2019",
+      "Type": "Road",
+      "Spec": {
+        "Tires": {
+          "size": "650c",
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": null,
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Focus",
+      "Model": "Planet 6.9 2019 ",
+      "fullname": "Focus Planet 6.9 2019",
+      "Type": "Hibrid",
+      "Spec": {
+        "Tires": {
+          "size": 28,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
+    },
+    {
+      "Brand": "Focus",
+      "Model": "Planet 6.8 2018 ",
+      "fullname": "Focus Planet 6.8 2018",
+      "Type": "Hibrid",
+      "Spec": {
+        "Tires": {
+          "size": 28,
+          "info": "Maxxis Rekon Race / 2.25 /  120TPI Kevlar Bead"
+        },
+        "Frame": "Scale 3 Carbon / IMP technology / HMFBB92 / SW DM dropouts for Boost 12x148mm",
+        "Rear deraillerur": "SRAM X01 / Eagle 12 Speed",
+        "fork": "OX 32 SC Float Performance Air Grip 3 / 3-Modes / 15x110mm QR axle / tapered steererLockout / Reb. Adj. / 100mm travel",
+        "Shifters": "SRAM GX Eagle Trigger",
+        "Brakes": "Shimano SLX M7000 Disc180/F and 160/R mm SM-RT66 Rotor",
+        "Front hub": "Formula CL811 / 15x110mm",
+        "Rear hub": "Formula CL14811 / Boost 12x148mm / XD",
+        "Chain": "SRAM CN NX Eagle",
+        "Cassatte": "SRAM GX / XG1275 / 10-50 T",
+        "crankset": "SRAM GX Eagle DUB Boost 32T",
+        "Handlebar": "Syncros FL1.5 T-Bar / Alloy 7050 D.B.T shape Flat / 9° / 720mm Syncros Pro lock-on grips",
+        "Seat": "Syncros XR1.5 / Titanium rails",
+        "chain": "SRAM CN GX Eagle",
+        "Weight": "10.5 Kg"
+      },
+      "Price": 290
     }
 
   ]
