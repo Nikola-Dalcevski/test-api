@@ -115,7 +115,7 @@
       "Brand": "Scott",
       "Model": "Speedster 20 2019 ",
       "fullname": "Scott Speedster 20 2019",
-      "Type": "Mountain",
+      "Type": "Road",
       "Spec": {
         "Tires": {
           "size": "700c",
@@ -142,7 +142,7 @@
       "Brand": "Scott",
       "Model": "Addict 10 ",
       "fullname": "Scott Addict 10 2018",
-      "Type": "Mountain",
+      "Type": "Road",
       "Spec": {
         "Tires": {
           "size": "650c",
@@ -169,7 +169,7 @@
       "Brand": "Scott",
       "Model": "Addict 20 2018",
       "fullname": "Scott Addict 20 2018",
-      "Type": "Mountain",
+      "Type": "Road",
       "Spec": {
         "Tires": {
           "size": "650c",
@@ -196,7 +196,7 @@
       "Brand": "Scott",
       "Model": "Foil 20 2019 ",
       "fullname": "Scott Foil 20 2019",
-      "Type": "Mountain",
+      "Type": "Road",
       "Spec": {
         "Tires": {
           "size": "700c",
@@ -223,7 +223,7 @@
       "Brand": "Scott",
       "Model": "Sub Sport 10 2019 ",
       "fullname": "Scott Sub Sport 10 2019",
-      "Type": "Mountain",
+      "Type": "Hibrid",
       "Spec": {
         "Tires": {
           "size": 28,
@@ -251,7 +251,7 @@
       "Brand": "Scott",
       "Model": "Sub Sport 30 2018 ",
       "fullname": "Scott Sub Sport 30 2018",
-      "Type": "Mountain",
+      "Type": "Hibrid",
       "Spec": {
         "Tires": {
           "size": 28,
@@ -388,7 +388,7 @@
       "Brand": "Cube ",
       "Model": "Agree Race Disc 2018 ",
       "fullname": "Cube Agree Race Disc 2019",
-      "Type": "Mountain",
+      "Type": "Road",
       "Spec": {
         "Tires": {
           "size": "700c",
@@ -416,7 +416,7 @@
       "Brand": "Cube ",
       "Model": "Nuroad Pro 2019",
       "fullname": "Cube Nuroad Pro 2019",
-      "Type": "Mountain",
+      "Type": "Road",
       "Spec": {
         "Tires": {
           "size": "700c",
@@ -444,7 +444,7 @@
       "Brand": "Cube ",
       "Model": "Cross Race Pro 2019",
       "fullname": "Cube Cross Race Pro 2019",
-      "Type": "Mountain",
+      "Type": "Road",
       "Spec": {
         "Tires": {
           "size": "650c",
@@ -472,7 +472,7 @@
       "Brand": "Cube ",
       "Model": "SL Road 2018",
       "fullname": "Cube SL Road 2018",
-      "Type": "Mountain",
+      "Type": "Road",
       "Spec": {
         "Tires": {
           "size": "650c",
@@ -499,7 +499,7 @@
       "Brand": "Cube ",
       "Model": "Nature Pro 2019 ",
       "fullname": "Cube Nature Pro 2019",
-      "Type": "Mountain",
+      "Type": "Hibrid",
       "Spec": {
         "Tires": {
           "size": 28,
@@ -527,7 +527,7 @@
       "Brand": "Cube ",
       "Model": "Turning One 2018 ",
       "fullname": "Cube Turning One 2018",
-      "Type": "Mountain",
+      "Type": "Hibrid",
       "Spec": {
         "Tires": {
           "size": 28,
